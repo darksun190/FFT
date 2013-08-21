@@ -11,23 +11,6 @@
 #include <QDir>
 
 
-#include <iostream>
-#include <cstdlib>
-#include <vectormath.h>
-#include <fft.h>
-#include <sp_xmlread.h>
-#include <cmath>
-#include <qmath.h>
-
-using namespace std;
-using namespace splab;
-
-
-typedef double  Type;
-const   int     MINLEN = 1;
-const   int     MAXLEN = 1000;
-const   int     STEP   = 10;
-
 
 
 int main(int argc, char *argv[])
