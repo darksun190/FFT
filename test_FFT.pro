@@ -20,5 +20,5 @@ HEADERS  += mainwindow.h
 FORMS    += mainwindow.ui
 INCLUDEPATH += C:\Qt\SP++3.0\include
 
-LIBS            += C:\Qt\libsp_xmlread.a
+LIBS            += C:\Qt\libs\libsp_xmlread.a
 INCLUDEPATH     += C:\Qt\include
