@@ -22,3 +22,6 @@ INCLUDEPATH += C:\Qt\SP++3.0\include
 
 LIBS            += C:\Qt\libs\libsp_xmlread.a
 INCLUDEPATH     += C:\Qt\include
+
+OTHER_FILES += \
+    readme.txt
